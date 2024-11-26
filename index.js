@@ -6,4 +6,3 @@ const wrapAdjective = (wrap) => {
         return `You are ${wrap}${string}${wrap}!`
     }
 }
-console.log(wrapAdjective('!!!')("hello"))
